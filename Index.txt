@@ -75,6 +75,7 @@
 \C#\GS1 DataBar Stacked Omnidirectional
 \C#\GS1 DataBar Truncated
 \C#\GS1 Datamatrix (2D)
+\C#\GS1 QR Code
 \C#\I2of5
 \C#\ISBN
 \C#\JAN13
@@ -101,6 +102,7 @@
 \C#\QR Code (2D)
 \C#\QR Code With Binary Data
 \C#\QR Code With Image
+\C#\QR Code with JSON
 \C#\RenderingOptions
 \C#\Royal Mail
 \C#\Singapore Postal Code
@@ -178,6 +180,7 @@
 \VB.NET\Generate vCard QR Code
 \VB.NET\GenerateWordDocumentWithBarcodes
 \VB.NET\GS1 Datamatrix
+\VB.NET\GS1 QR Code
 \VB.NET\I2of5
 \VB.NET\ISBN
 \VB.NET\JAN13
@@ -204,6 +207,7 @@
 \VB.NET\QR Code (2D)
 \VB.NET\QR Code With Binary Data
 \VB.NET\QR Code With Image
+\VB.NET\QR Code With JSON
 \VB.NET\RenderingOptions
 \VB.NET\Royal Mail
 \VB.NET\Singapore Postal Code
