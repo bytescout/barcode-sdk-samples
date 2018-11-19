@@ -65,6 +65,7 @@
 \C#\Generate Barcode from Service
 \C#\Generate Barcodes from Database
 \C#\Generate Barcodes from Excel
+\C#\Generate PharmaCode
 \C#\Generate vCard QR Code
 \C#\GenerateWordDocumentWithBarcodes
 \C#\GS1 DataBar Expanded
@@ -177,6 +178,7 @@
 \VB.NET\Generate Barcode from Service
 \VB.NET\Generate Barcodes from Database
 \VB.NET\Generate Barcodes from Excel
+\VB.NET\Generate PharmaCode
 \VB.NET\Generate vCard QR Code
 \VB.NET\GenerateWordDocumentWithBarcodes
 \VB.NET\GS1 Datamatrix
