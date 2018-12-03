@@ -102,6 +102,7 @@
 \C#\PZN
 \C#\QR Code (2D)
 \C#\QR Code With Binary Data
+\C#\QR Code With CalenderEntry
 \C#\QR Code With Image
 \C#\QR Code with JSON
 \C#\RenderingOptions
@@ -208,6 +209,7 @@
 \VB.NET\PZN
 \VB.NET\QR Code (2D)
 \VB.NET\QR Code With Binary Data
+\VB.NET\QR Code With CalenderEntry
 \VB.NET\QR Code With Image
 \VB.NET\QR Code With JSON
 \VB.NET\RenderingOptions
