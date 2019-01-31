@@ -15,235 +15,235 @@
 \VB.NET
 \VBScript
 \Visual Basic 6
-\ASP Classic\Create PDF with Datamatrix barcode with PDFDoc Scout
-\ASP Classic\Generate barcode image
-\ASP.NET\Generate barcode in ASPNET MVC
+\ASP Classic\Create PDF With Datamatrix Barcode
+\ASP Classic\Generate Barcode Image
+\ASP.NET\Generate Barcode in ASP.NET MVC
 \ASP.NET\Generate Barcode In C# Backend
-\ASP.NET\Generate barcode in C# Local Reports (RDLC)
-\ASP.NET\Generate barcode in VB Non Visual class
-\ASP.NET\Generate barcode in VB.NET Local Reports (RDLC) copy
-\ASP.NET\Generate barcode in WebImage control in VB.NET
-\ASP.NET\Generate Barcode with WebImage control in C#
-\ASP.NET\Generate SSRS VS 2008 reports
-\ASP.NET\Generate barcode in ASPNET MVC\Generate barcode in aspnet mvc
-\ASP.NET\Generate barcode in ASPNET MVC\packages
-\ASP.NET\Generate barcode in ASPNET MVC\Generate barcode in aspnet mvc\Helpers
-\C#\Add barcode Checksum
-\C#\Add barcode Checksum To Caption
-\C#\Add barcode To Image
-\C#\Add barcode To Multi TIFF
-\C#\Add barcode To New PDF
+\ASP.NET\Generate Barcode in C# Local Reports (RDLC)
+\ASP.NET\Generate Barcode in VB Non-Visual class
+\ASP.NET\Generate Barcode in VB.NET Local Reports (RDLC)
+\ASP.NET\Generate Barcode in WebImage Control in VB.NET
+\ASP.NET\Generate Barcode With WebImage Control in C#
+\ASP.NET\Generate SSRS Reports VS 2008
+\ASP.NET\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc
+\ASP.NET\Generate Barcode in ASP.NET MVC\packages
+\ASP.NET\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc\Helpers
+\C#\Add Barcode Checksum
+\C#\Add Barcode Checksum To Caption
+\C#\Add Barcode To Image
+\C#\Add Barcode To Multi TIFF
+\C#\Add Barcode To New PDF
 \C#\Add Barcode To PDF
-\C#\Add custom images To Pdf Document
-\C#\Aztec barcode (2D)
-\C#\Aztec barcode With Binary Data
-\C#\Bookland barcode
-\C#\Change barcode color
-\C#\CodaBar barcode
-\C#\Code 128 barcode
-\C#\Code 39 barcode
-\C#\Code 93 barcode
-\C#\DataMatrix barcode
-\C#\DataMatrix barcode With Binary Data
-\C#\Deutsche Post Identcode barcode
-\C#\Deutsche Post Leitcode barcode
+\C#\Add Custom Images To PDF Document
+\C#\Aztec Barcode (2D)
+\C#\Aztec Barcode With Binary Data
+\C#\Bookland Barcode
+\C#\Change Barcode Color
+\C#\CodaBar Barcode
+\C#\Code 128 Barcode
+\C#\Code 39 Barcode
+\C#\Code 93 Barcode
+\C#\DataMatrix Barcode
+\C#\DataMatrix Barcode With Binary Data
+\C#\Deutsche Post Identcode Barcode
+\C#\Deutsche Post Leitcode Barcode
 \C#\Display Barcode On Form
-\C#\draw barcode caption
-\C#\Dutch Kix barcode
-\C#\EAN 128 barcode
-\C#\EAN 13 barcode
-\C#\EAN 8 barcode
-\C#\Fit barcode Into size
+\C#\Draw Barcode Caption
+\C#\Dutch Kix Barcode
+\C#\EAN-128 Barcode
+\C#\EAN-13 Barcode
+\C#\EAN-8 Barcode
+\C#\Fit Barcode Into Size
 \C#\Generate Barcode from Service
 \C#\Generate Barcodes from Database
 \C#\Generate Barcodes from Excel
 \C#\Generate PharmaCode
-\C#\generate simple barcode
+\C#\Generate Simple Barcode
 \C#\Generate vCard QR Code
-\C#\GenerateWordDocumentWithBarcodes
-\C#\GS1 DataBar Expanded barcode
-\C#\GS1 DataBar Expanded Stacked barcode
-\C#\GS1 DataBar Limited barcode
-\C#\GS1 DataBar Omnidirectional barcode
-\C#\GS1 DataBar Stacked barcode
-\C#\GS1 DataBar Stacked Omnidirectional barcode
-\C#\GS1 DataBar Truncated barcode
-\C#\GS1 Datamatrix barcode
-\C#\GS1 QR Code barcode
-\C#\I 2 of 5 barcode
-\C#\ISBN barcode
-\C#\JAN 13 barcode
-\C#\Macro PDF 417 barcode
-\C#\MaxiCode barcode
-\C#\MaxiCode Mode 2-3 Postal barcode
-\C#\MSI barcode
+\C#\Generate Word Document With Barcodes
+\C#\GS1 DataBar Expanded Barcode
+\C#\GS1 DataBar Expanded Stacked Barcode
+\C#\GS1 DataBar Limited Barcode
+\C#\GS1 DataBar Omnidirectional Barcode
+\C#\GS1 DataBar Stacked Barcode
+\C#\GS1 DataBar Stacked Omnidirectional Barcode
+\C#\GS1 DataBar Truncated Barcode
+\C#\GS1 Datamatrix Barcode
+\C#\GS1 QR Code Barcode
+\C#\Interleaved 2 of 5 Barcode
+\C#\ISBN Barcode
+\C#\JAN-13 Barcode
+\C#\Macro PDF417 Barcode
+\C#\MaxiCode Barcode
+\C#\MaxiCode Mode 2-3 Postal Barcode
+\C#\MSI Barcode
 \C#\Multiple Barcode Generation
-\C#\Numly barcode
-\C#\Optical Product barcode
-\C#\PDF417 barcode
-\C#\PDF417 barcode With Binary Data
-\C#\PDF417 truncated barcode
+\C#\Numly Barcode
+\C#\Optical Product Barcode
+\C#\PDF417 Barcode
+\C#\PDF417 Barcode With Binary Data
+\C#\PDF417 Truncated Barcode
 \C#\Planet barcode
-\C#\Plessey barcode
-\C#\Postnet barcode
-\C#\Print barcode
+\C#\Plessey Barcode
+\C#\Postnet Barcode
+\C#\Print Barcode
 \C#\Print Labels
-\C#\PZN barcode
-\C#\QR Code barcode
-\C#\QR Code barcode With Binary Data
-\C#\QR Code barcode With Calender Entry
-\C#\QR Code barcode With Image inside
-\C#\QR Code barcode with JSON inside
-\C#\Royal Mail barcode
-\C#\set Additional barcode Caption
-\C#\set barcode Angle
-\C#\set barcode bar heightBarHeight
-\C#\set barcode Margins
-\C#\set codabar barcode options
-\C#\set code 128 barcode options
-\C#\set custom barcode caption
-\C#\set Narrow Bar Width
+\C#\PZN Barcode
+\C#\QR Code Barcode
+\C#\QR Code Barcode With Binary Data
+\C#\QR Code Barcode With Calender Entry
+\C#\QR Code Barcode With Image inside
+\C#\QR Code Barcode With JSON Inside
+\C#\Royal Mail Barcode
+\C#\Set Additional Barcode Caption
+\C#\Set Barcode Angle
+\C#\Set Barcode Bar Height
+\C#\Set Barcode Margins
+\C#\Set Codabar Barcode Options
+\C#\Set Code 128 Barcode Options
+\C#\Set Custom Barcode Caption
+\C#\Set Narrow Bar Width
 \C#\Set Rendering Options
-\C#\set Unicode value for barcode
+\C#\Set Unicode Value For Barcode
 \C#\Set Wide To Narrow Ratio
-\C#\Singapore Postal Code barcode
-\C#\Swiss Post Parcel barcode
-\C#\UPCA barcode
-\C#\UPCE barcode
-\C#\USPS Sack Label barcode
-\C#\USPS Tray Label barcode
-\C#\WinForms barcode Control
-\C#\WPF barcode Control for Desktop
-\C#\WPF barcode Control for Web Demo
+\C#\Singapore Postal Code Barcode
+\C#\Swiss Post Parcel Barcode
+\C#\UPCA Barcode
+\C#\UPCE Barcode
+\C#\USPS Sack Label Barcode
+\C#\USPS Tray Label Barcode
+\C#\WinForms Barcode Control
+\C#\WPF Barcode Control for Desktop
+\C#\WPF barcode Control for Web
 \C#\Generate Barcode from Service\ServiceController
 \C#\Generate Barcode from Service\WindowsService1
-\C++\generate barcode
-\C++\generate barcode Monochrome Bitmap
+\C++\Generate Barcode
+\C++\Generate Barcode Monochrome Bitmap
 \C++\Get Barcode To Memory Buffer
-\Crystal Reports\create Report from SQL Server C# 2005
-\Crystal Reports\generate Barcode in Crystal Reports Application C# 2010
-\Crystal Reports\generate Barcode in Crystal Reports Application C# 2015
-\Crystal Reports\generate Barcode in CrystalReports Application VB.NET 2010
-\Crystal Reports\generate Barcode in CrystalReports Application VB.NET 2015
-\Crystal Reports\generate Report from SQL Server C# 2015
-\Crystal Reports\generate Report from SQL Server VB.NET 2005
-\Crystal Reports\generate Report from SQL Server VB.NET 2015
-\Delphi\generate barcode from console
-\Delphi\generate barcode on Forms
-\Delphi\print barcode
-\Delphi\Set barcode options and Code128 alphabet
+\Crystal Reports\Create Report from SQL Server C# 2005
+\Crystal Reports\Generate Barcode in Crystal Reports Application C# 2010
+\Crystal Reports\Generate Barcode in Crystal Reports Application C# 2015
+\Crystal Reports\Generate Barcode in CrystalReports Application VB.NET 2010
+\Crystal Reports\Generate Barcode in CrystalReports Application VB.NET 2015
+\Crystal Reports\Generate Report from SQL Server VB.NET 2005
+\Crystal Reports\Generate Report from SQL Server VB.NET 2015
+\Crystal Reports\Generate Report rom SQL Server C# 2015
+\Delphi\Generate Barcode From Console
+\Delphi\Generate Barcode on Forms
+\Delphi\Print Barcode
+\Delphi\Set Barcode Options and Code128 Alphabet
 \JavaScript\Generate Barcode
 \M-Files\Generate Barcode
-\Microsoft Access\add Barcode in Report
-\Microsoft Access\Insert barcode into PDF document
-\Microsoft Access\Save barcode as PNG image file
+\Microsoft Access\Add Barcode in Report
+\Microsoft Access\Insert Barcode Into PDF Document
+\Microsoft Access\Save Barcode as PNG Image File
 \Microsoft Excel\Batch Generate Barcodes In Cells with VBA
-\Microsoft Word\Add barcode to Word document in C#
-\Microsoft Word\Add barcode to Word document in VB.NET
+\Microsoft Word\Add Barcode to Word Document in C#
+\Microsoft Word\Add Barcode to Word Document in VB.NET
 \Microsoft Word\Generate Barcodes In Word with VBA
-\SSRS Reports\Generate barcodes in SSRS 2010
-\SSRS Reports\Generate barcodes in SSRS 2012
+\SSRS Reports\Generate Barcodes in SSRS 2010
+\SSRS Reports\Generate Barcodes in SSRS 2012
 \VB.NET\Add Barcode to PDF
+\VB.NET\Add Checksum
+\VB.NET\Add Checksum To Caption
+\VB.NET\Add Custom Images To PDF Document
 \VB.NET\Add To Image
 \VB.NET\Add To Multi TIFF
 \VB.NET\Add To New PDF
-\VB.NET\AddChecksum
-\VB.NET\AddChecksumToCaption
-\VB.NET\AddCustomImagesToPdfDocument
-\VB.NET\AdditionalCaption
-\VB.NET\Aztec (2D) barcode
-\VB.NET\Aztec barcode With Binary Data
-\VB.NET\Bookland barcode
-\VB.NET\Change barcode color
-\VB.NET\CodaBar barcode
-\VB.NET\Code 128 barcode
-\VB.NET\Code 39 barcode
-\VB.NET\Code 93 barcode
-\VB.NET\DataMatrix (2D) barcode
+\VB.NET\Additional Caption
+\VB.NET\Aztec (2D) Barcode
+\VB.NET\Aztec Barcode With Binary Data
+\VB.NET\Bookland Barcode
+\VB.NET\Change Barcode Color
+\VB.NET\Codabar Barcode
+\VB.NET\Code 128 Barcode
+\VB.NET\Code 39 Barcode
+\VB.NET\Code 93 Barcode
+\VB.NET\DataMatrix (2D) Barcode
 \VB.NET\DataMatrix With Binary Data
-\VB.NET\Deutsche Post Identcode barcode
-\VB.NET\Deutsche Post Leitcode barcode
-\VB.NET\DisplayBarcodeOnForm
-\VB.NET\DrawCaption
+\VB.NET\Deutsche Post Identcode Barcode
+\VB.NET\Deutsche Post Leitcode Barcode
+\VB.NET\Display Barcode On Form
+\VB.NET\Draw Caption
 \VB.NET\Dutch Kix
-\VB.NET\EAN128
-\VB.NET\EAN13
-\VB.NET\EAN8
-\VB.NET\Fit Into given size
-\VB.NET\generate barcode
+\VB.NET\EAN-128
+\VB.NET\EAN-13
+\VB.NET\EAN-8
+\VB.NET\Fit Into Given Size
+\VB.NET\Generate Barcode
 \VB.NET\Generate Barcode from Service
 \VB.NET\Generate Barcodes from Database
 \VB.NET\Generate Barcodes from Excel
 \VB.NET\Generate PharmaCode
 \VB.NET\Generate QR Code With Binary Data
 \VB.NET\Generate vCard QR Code
-\VB.NET\GenerateWordDocumentWithBarcodes
+\VB.NET\Generate Word Document With Barcodes
 \VB.NET\GS1 Datamatrix
 \VB.NET\GS1 QR Code
-\VB.NET\I2of5
-\VB.NET\ISBN
-\VB.NET\JAN13
-\VB.NET\Macro PDF 417 (multiple)
+\VB.NET\Interleaved 2 of 5 Barcode
+\VB.NET\ISBN Barcode
+\VB.NET\JAN-13 Barcode
+\VB.NET\Macro PDF417 (multiple)
 \VB.NET\Margins
 \VB.NET\MaxiCode
 \VB.NET\MaxiCode Mode 2-3 (Postal)
-\VB.NET\MSI
+\VB.NET\MSI Barcode
 \VB.NET\Multiple Barcode Generation
-\VB.NET\NarrowBarWidth
+\VB.NET\Narrow Bar Width
 \VB.NET\Numly
 \VB.NET\Optical Product
-\VB.NET\OptionsCodabar
-\VB.NET\OptionsCode128
+\VB.NET\Options Codabar
+\VB.NET\Options Code128
 \VB.NET\PDF417 (2D)
+\VB.NET\PDF417 Truncated (2D)
 \VB.NET\PDF417 With Binary Data
-\VB.NET\PDF417Truncated (2D)
 \VB.NET\Planet
 \VB.NET\Plessey
 \VB.NET\Postnet
-\VB.NET\Print barcode
+\VB.NET\Print Barcode
 \VB.NET\Print Labels
 \VB.NET\PZN
 \VB.NET\QR Code (2D)
 \VB.NET\QR Code With CalenderEntry
 \VB.NET\QR Code With Image
 \VB.NET\QR Code With JSON
-\VB.NET\RenderingOptions
+\VB.NET\Rendering Options
 \VB.NET\Royal Mail
 \VB.NET\Set Angle
-\VB.NET\Set barcode height
-\VB.NET\set Custom caption
-\VB.NET\Set Unicode text in barcode
+\VB.NET\Set Barcode Height
+\VB.NET\Set Custom Caption
+\VB.NET\Set Unicode Text in Barcode
+\VB.NET\Set Wide To Narrow Ratio
 \VB.NET\Singapore Postal Code
 \VB.NET\Swiss Post Parcel
 \VB.NET\UPCA
 \VB.NET\UPCE
 \VB.NET\USPS Sack Label
 \VB.NET\USPS Tray Label
-\VB.NET\WideToNarrowRatio
-\VB.NET\WinForms barcode Control
+\VB.NET\WinForms Barcode Control
 \VB.NET\Generate Barcode from Service\ServiceController
 \VB.NET\Generate Barcode from Service\WindowsService1
 \VB.NET\MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
 \VBScript\Add Barcode to PDF
-\VBScript\Add barcodes To Image
-\VBScript\Add barcodes To New PDF
-\VBScript\Add barcodes To TIFF
-\VBScript\Batch barcode generation
+\VBScript\Add Barcodes To Image
+\VBScript\Add Barcodes To New PDF
+\VBScript\Add Barcodes To TIFF
+\VBScript\Batch Barcode Generation
 \VBScript\Caption Font
 \VBScript\Change Fore and Back Color
-\VBScript\create Barcode from Excel
-\VBScript\Custom PDF417 configuration
-\VBScript\Generate barcode
+\VBScript\Create Barcode from Excel
+\VBScript\Custom PDF417 Configuration
+\VBScript\Generate Barcode
 \VBScript\Generate Barcodes From Text File
 \VBScript\Monochrome Bitmap
-\VBScript\PDF417 barcode
-\VBScript\QR Code barcode With Image inside
+\VBScript\PDF417 Barcode
+\VBScript\QR Code Barcode With Image Inside
 \VBScript\Set 2 Captions for Barcode
 \VBScript\Set Bar Code Size In Inches
-\VBScript\Set Barcode size
-\Visual Basic 6\Draw to form hDC
+\VBScript\Set Barcode Size
+\Visual Basic 6\Draw Barcode to Form HDC
 \Visual Basic 6\Print With Crystal Reports
-\Visual Basic 6\Printing barcodes
-\Visual Basic 6\Save barcode to EMF images
-\Visual Basic 6\Save barcode to PNG images
+\Visual Basic 6\Printing Barcodes
+\Visual Basic 6\Save Barcode to EMF Images
+\Visual Basic 6\Save Barcode to PNG Images
 \Visual Basic 6\Set Barcode Size
