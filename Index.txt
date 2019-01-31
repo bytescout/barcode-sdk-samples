@@ -225,6 +225,7 @@
 \VB.NET\Generate Barcode from Service\WindowsService1
 \VB.NET\MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
 \VBScript\Add Barcode to PDF
+\VBScript\Add barcodes To Image
 \VBScript\Add barcodes To New PDF
 \VBScript\Add barcodes To TIFF
 \VBScript\Batch barcode generation
