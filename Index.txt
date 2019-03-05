@@ -231,6 +231,7 @@
 \VBScript\Batch Barcode Generation
 \VBScript\Caption Font
 \VBScript\Change Fore and Back Color
+\VBScript\Command Line Use
 \VBScript\Create Barcode from Excel
 \VBScript\Custom PDF417 Configuration
 \VBScript\Generate Barcode
