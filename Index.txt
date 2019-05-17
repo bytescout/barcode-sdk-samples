@@ -116,7 +116,7 @@
 \C#\WPF Barcode Control for Desktop
 \C#\WPF barcode Control for Web
 \C#\Generate Barcode from Service\ServiceController
-\C#\Generate Barcode from Service\WindowsService1
+\C#\Generate Barcode from Service\WindowsService
 \C++\Generate Barcode
 \C++\Generate Barcode Monochrome Bitmap
 \C++\Get Barcode To Memory Buffer
@@ -222,7 +222,7 @@
 \VB.NET\USPS Tray Label
 \VB.NET\WinForms Barcode Control
 \VB.NET\Generate Barcode from Service\ServiceController
-\VB.NET\Generate Barcode from Service\WindowsService1
+\VB.NET\Generate Barcode from Service\WindowsService
 \VB.NET\MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
 \VBScript\Add Barcode to PDF
 \VBScript\Add Barcodes To Image
