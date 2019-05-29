@@ -25,9 +25,7 @@
 \ASP.NET\Generate Barcode in WebImage Control in VB.NET
 \ASP.NET\Generate Barcode With WebImage Control in C#
 \ASP.NET\Generate SSRS Reports VS 2008
-\ASP.NET\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc
-\ASP.NET\Generate Barcode in ASP.NET MVC\packages
-\ASP.NET\Generate Barcode in ASP.NET MVC\Generate barcode in aspnet mvc\Helpers
+\ASP.NET\Generate Barcode in ASP.NET MVC\Helpers
 \C#\Add Barcode Checksum
 \C#\Add Barcode Checksum To Caption
 \C#\Add Barcode To Image
@@ -223,7 +221,6 @@
 \VB.NET\WinForms Barcode Control
 \VB.NET\Generate Barcode from Service\ServiceController
 \VB.NET\Generate Barcode from Service\WindowsService
-\VB.NET\MaxiCode Mode 2-3 (Postal)\PostalMaxiCode
 \VBScript\Add Barcode to PDF
 \VBScript\Add Barcodes To Image
 \VBScript\Add Barcodes To New PDF
