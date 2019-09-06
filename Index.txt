@@ -41,6 +41,7 @@
 \C#\Code 128 Barcode
 \C#\Code 39 Barcode
 \C#\Code 93 Barcode
+\C#\Composed Barcode
 \C#\DataMatrix Barcode
 \C#\DataMatrix Barcode With Binary Data
 \C#\Deutsche Post Identcode Barcode
@@ -157,6 +158,7 @@
 \VB.NET\Code 128 Barcode
 \VB.NET\Code 39 Barcode
 \VB.NET\Code 93 Barcode
+\VB.NET\Composed Barcode
 \VB.NET\DataMatrix (2D) Barcode
 \VB.NET\DataMatrix With Binary Data
 \VB.NET\Deutsche Post Identcode Barcode
