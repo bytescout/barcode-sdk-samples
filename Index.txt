@@ -68,6 +68,7 @@
 \C#\GS1 DataBar Stacked Omnidirectional Barcode
 \C#\GS1 DataBar Truncated Barcode
 \C#\GS1 Datamatrix Barcode
+\C#\GS1 Datamatrix barcode with multiline captions
 \C#\GS1 QR Code Barcode
 \C#\Interleaved 2 of 5 Barcode
 \C#\ISBN Barcode
@@ -179,6 +180,7 @@
 \VB.NET\Generate vCard QR Code
 \VB.NET\Generate Word Document With Barcodes
 \VB.NET\GS1 Datamatrix
+\VB.NET\GS1 Datamatrix barcode with multiline captions
 \VB.NET\GS1 QR Code
 \VB.NET\Interleaved 2 of 5 Barcode
 \VB.NET\ISBN Barcode
@@ -234,6 +236,7 @@
 \VBScript\Create Barcode from Excel
 \VBScript\Custom PDF417 Configuration
 \VBScript\Generate Barcode
+\VBScript\Generate barcode with multiline caption
 \VBScript\Generate Barcodes From Text File
 \VBScript\Monochrome Bitmap
 \VBScript\PDF417 Barcode
