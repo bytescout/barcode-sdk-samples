@@ -94,6 +94,11 @@
 \C#\QR Code Barcode With Calender Entry
 \C#\QR Code Barcode With Image inside
 \C#\QR Code Barcode With JSON Inside
+\C#\QR Code with Email
+\C#\QR Code with Message
+\C#\QR Code with Sms Message
+\C#\QR Code with vCard
+\C#\QR Code with Website Url
 \C#\Royal Mail Barcode
 \C#\Set Additional Barcode Caption
 \C#\Set Barcode Angle
@@ -207,8 +212,13 @@
 \VB.NET\PZN
 \VB.NET\QR Code (2D)
 \VB.NET\QR Code With CalenderEntry
+\VB.NET\QR Code With Email
 \VB.NET\QR Code With Image
 \VB.NET\QR Code With JSON
+\VB.NET\QR Code With Message
+\VB.NET\QR Code With Sms Message
+\VB.NET\QR Code With vCard
+\VB.NET\QR Code with Website Url
 \VB.NET\Rendering Options
 \VB.NET\Royal Mail
 \VB.NET\Set Angle
