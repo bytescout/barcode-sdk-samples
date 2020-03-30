@@ -70,6 +70,7 @@
 \C#\GS1 Datamatrix Barcode
 \C#\GS1 Datamatrix barcode with multiline captions
 \C#\GS1 QR Code Barcode
+\C#\GS1-128 Barcode
 \C#\Interleaved 2 of 5 Barcode
 \C#\ISBN Barcode
 \C#\JAN-13 Barcode
@@ -188,6 +189,7 @@
 \VB.NET\GS1 Datamatrix
 \VB.NET\GS1 Datamatrix barcode with multiline captions
 \VB.NET\GS1 QR Code
+\VB.NET\GS1-128
 \VB.NET\Interleaved 2 of 5 Barcode
 \VB.NET\ISBN Barcode
 \VB.NET\JAN-13 Barcode
