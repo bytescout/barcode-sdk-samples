@@ -114,6 +114,7 @@
 \C#\Set Unicode Value For Barcode
 \C#\Set Wide To Narrow Ratio
 \C#\Singapore Postal Code Barcode
+\C#\Store Large Data with Macro PDF417 Barcode
 \C#\Swiss Post Parcel Barcode
 \C#\UPCA Barcode
 \C#\UPCE Barcode
@@ -231,6 +232,7 @@
 \VB.NET\Set Unicode Text in Barcode
 \VB.NET\Set Wide To Narrow Ratio
 \VB.NET\Singapore Postal Code
+\VB.NET\Store Large Data with Macro PDF417 Barcode
 \VB.NET\Swiss Post Parcel
 \VB.NET\UPCA
 \VB.NET\UPCE
