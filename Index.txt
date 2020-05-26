@@ -47,6 +47,7 @@
 \C#\Deutsche Post Identcode Barcode
 \C#\Deutsche Post Leitcode Barcode
 \C#\Display Barcode On Form
+\C#\Display License Info
 \C#\Draw Barcode Caption
 \C#\Dutch Kix Barcode
 \C#\EAN-128 Barcode
@@ -173,6 +174,7 @@
 \VB.NET\Deutsche Post Identcode Barcode
 \VB.NET\Deutsche Post Leitcode Barcode
 \VB.NET\Display Barcode On Form
+\VB.NET\Display License Info
 \VB.NET\Draw Caption
 \VB.NET\Dutch Kix
 \VB.NET\EAN-128
@@ -251,6 +253,7 @@
 \VBScript\Command Line Use
 \VBScript\Create Barcode from Excel
 \VBScript\Custom PDF417 Configuration
+\VBScript\Display License Info
 \VBScript\Generate Barcode
 \VBScript\Generate barcode with multiline caption
 \VBScript\Generate Barcodes From Text File
