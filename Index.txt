@@ -137,9 +137,13 @@
 \Crystal Reports\Generate Report from SQL Server VB.NET 2005
 \Crystal Reports\Generate Report from SQL Server VB.NET 2015
 \Crystal Reports\Generate Report rom SQL Server C# 2015
+\Delphi\Add Barcode Checksum To Caption
+\Delphi\Composed Barcode
 \Delphi\Generate Barcode From Console
 \Delphi\Generate Barcode on Forms
 \Delphi\Print Barcode
+\Delphi\QR Code Barcode With Calender Entry
+\Delphi\QR Code with Website Url
 \Delphi\Set Barcode Options and Code128 Alphabet
 \JavaScript\Generate Barcode
 \M-Files\Generate Barcode
